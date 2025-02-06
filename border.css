@@ -1,0 +1,83 @@
+.one{
+    border: 5px solid rgb(1, 254, 22);
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    padding: 40px;
+    display: inline-block;
+    margin: 20px;
+    width: 100px;
+}
+.two{
+    border: 5px solid yellow;
+    border-radius: 20px;
+    padding: 40px;
+    display: inline-block;
+    margin: 20px;
+}
+.three{
+    border: 5px solid aqua;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding: 40px;
+    display: inline-block;
+    margin: 20px;
+    width: 100px;
+}
+.four{
+    border: 5px solid purple;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    padding: 40px;
+    display: inline-block;
+    margin: 20px;
+    width: 150px;
+}
+.five{
+    border-bottom: 5px dotted rgb(1, 254, 22);
+    border-top: 5px ridge rgb(1, 254, 22);
+    border-left: 30px ridge rgb(1, 254, 22);
+    border-right: 30px ridge rgb(1, 254, 22);
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    padding: 30px;
+    display: inline-block;
+    margin: 20px;
+    width: 120px;
+}
+.six{
+    border-left: 10px double rgb(234, 25, 234);
+    border-right: 10px double rgb(234, 25, 234);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    padding: 30px;
+    display: inline-block;
+    margin: 20px;
+    width: 120px;
+}
+.seven{
+    border-top: 10px ridge rgb(1, 254, 22);
+    border-left: 10px ridge rgb(197, 14, 121);
+    border-right: 10px ridge yellow;
+    border-bottom: 10px ridge rgb(6, 185, 255);
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding: 40px;
+    display: inline-block;
+    margin: 20px;
+    width: 120px;
+}
+.eight{
+    background-color: rgb(1, 254, 22);
+    border-top: 5px solid rgb(6, 185, 255);
+    border-right: 20px solid rgb(6, 185, 255);
+    border-bottom: 5px solid rgb(197, 14, 121);
+    border-left: 20px solid rgb(197, 14, 121);
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    padding: 40px;
+    display: inline-block;
+    margin: 20px;
+    width: 120px;
+}
